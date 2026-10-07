@@ -13,4 +13,4 @@ The launcher reads [manifest.json](https://raw.githubusercontent.com/dmitrymob/D
 
 When downloading a game ZIP manually, extract the whole archive; the EXE requires its accompanying data and libraries. Delta Hub installs games from the network and does not import existing local EXE files.
 
-The launcher checks its own updates at startup and hourly. When available, click **Обновить Delta Hub**; it installs the verified update and restarts while keeping games and settings.
+The launcher checks its own updates at startup and every 60 seconds. When available, click **Обновить Delta Hub**; it installs the verified update and restarts while keeping games and settings.
