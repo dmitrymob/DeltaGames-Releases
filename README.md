@@ -1,6 +1,6 @@
 # Delta Games — official downloads
 
-Download **[Delta Hub for Windows](https://github.com/dmitrymob/DeltaGames-Releases/releases/download/launcher-0.2.0/DeltaHub.exe)**, run it, select a game and click **Установить**. The launcher downloads, verifies and installs the current game build automatically.
+Download **[Delta Hub for Windows](https://github.com/dmitrymob/DeltaGames-Releases/releases/download/launcher-0.3.0/DeltaHub.exe)**, run it, select a game and click **Установить**. The launcher downloads, verifies and installs the current game build automatically.
 
 ## Games
 
