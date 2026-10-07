@@ -1,27 +1,27 @@
 {
-    "schemaVersion":  1,
-    "games":  [
-                  {
-                      "id":  "pixels-are-coming",
-                      "version":  "1.5.3",
-                      "executable":  "PixelsAreComing.exe",
-                      "minimumLauncherVersion":  "0.2.0",
-                      "download":  {
-                                       "url":  "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.5.3/pixels-are-coming-1.5.3.zip",
-                                       "size":  121671892,
-                                       "sha256":  "8ac642ea3e4e99de9a9f9d3c0c49ac8ccddbdda493390c400cc91c672007ddfc"
-                                   }
-                  },
-                  {
-                      "id":  "delta-soul-survival",
-                      "version":  "0.2.0",
-                      "executable":  "Delta Soul Survival.exe",
-                      "minimumLauncherVersion":  "0.2.0",
-                      "download":  {
-                                       "url":  "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/dss-0.2.0/delta-soul-survival-0.2.0.zip",
-                                       "size":  803150891,
-                                       "sha256":  "a7d9fa1ca032d8ec15a011c9af015f82e03cf4e80b1d56ccf898b595f1dae100"
-                                   }
-                  }
-              ]
+  "schemaVersion": 1,
+  "games": [
+    {
+      "id": "pixels-are-coming",
+      "version": "1.5.3",
+      "executable": "PixelsAreComing.exe",
+      "minimumLauncherVersion": "0.2.0",
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.5.3/pixels-are-coming-1.5.3.zip",
+        "size": 121671892,
+        "sha256": "8ac642ea3e4e99de9a9f9d3c0c49ac8ccddbdda493390c400cc91c672007ddfc"
+      }
+    },
+    {
+      "id": "delta-soul-survival",
+      "version": "0.2.1",
+      "executable": "Delta Soul Survival.exe",
+      "minimumLauncherVersion": "0.2.0",
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/dss-0.2.1/delta-soul-survival-0.2.1.zip",
+        "size": 812126456,
+        "sha256": "533ff5d1d756704a313495f7bb548c2386bdbc1cca99e3563946c4f6b2a07d83"
+      }
+    }
+  ]
 }
