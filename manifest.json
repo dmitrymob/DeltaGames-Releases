@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "games": [
+    {
+      "id": "delta-soul-survival",
+      "version": "0.1.0",
+      "executable": "Delta Soul Survival.exe",
+      "minimumLauncherVersion": "0.2.0",
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/dss-0.1.0/delta-soul-survival-0.1.0.zip",
+        "size": 808134332,
+        "sha256": "d9c3c4335b665ff92c278f340abeb2665bd814ba26de6cc6a6e11d91ab04ec44"
+      }
+    },
+    {
+      "id": "pixels-are-coming",
+      "version": "1.5.3",
+      "executable": "PixelsAreComing.exe",
+      "minimumLauncherVersion": "0.2.0",
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.5.3/pixels-are-coming-1.5.3.zip",
+        "size": 121671892,
+        "sha256": "8ac642ea3e4e99de9a9f9d3c0c49ac8ccddbdda493390c400cc91c672007ddfc"
+      }
+    }
+  ]
+}
