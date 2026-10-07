@@ -22,6 +22,17 @@
         "size": 812126456,
         "sha256": "533ff5d1d756704a313495f7bb548c2386bdbc1cca99e3563946c4f6b2a07d83"
       }
+    },
+    {
+      "id": "supermarket-simulator",
+      "version": "0.1.0",
+      "executable": "SupermarketSimulator.exe",
+      "minimumLauncherVersion": "0.5.3",
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/supermarket-0.1.0/supermarket-simulator-0.1.0.zip",
+        "size": 103339688,
+        "sha256": "cfe8af81e67dd48d2aba1d0c67031cd8d2a89a7fd248f3ab4116966fde01ae0b"
+      }
     }
   ]
 }
