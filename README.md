@@ -8,6 +8,7 @@ Download **[Delta Hub for Windows](https://github.com/dmitrymob/DeltaGames-Relea
 - [Pixels Are Coming 1.5.3 — online build, Windows x64](https://github.com/dmitrymob/DeltaGames-Releases/releases/tag/pixels-1.5.3)
 
 - [Supermarket Simulator 0.1.0 — Windows x64](https://github.com/dmitrymob/DeltaGames-Releases/releases/tag/supermarket-0.1.0)
+- [Wings of Fantasy 0.1.0 — Windows x64, offline](https://github.com/dmitrymob/DeltaGames-Releases/releases/tag/wings-0.1.0)
 
 This public repository contains distribution metadata and compiled release assets only. Game source projects are maintained separately.
 
