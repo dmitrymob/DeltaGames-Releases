@@ -7,6 +7,8 @@ Download **[Delta Hub for Windows](https://github.com/dmitrymob/DeltaGames-Relea
 - [Delta Soul Survival 0.2.0 — Windows x64](https://github.com/dmitrymob/DeltaGames-Releases/releases/tag/dss-0.2.0)
 - [Pixels Are Coming 1.5.3 — online build, Windows x64](https://github.com/dmitrymob/DeltaGames-Releases/releases/tag/pixels-1.5.3)
 
+- [Supermarket Simulator 0.1.0 — Windows x64](https://github.com/dmitrymob/DeltaGames-Releases/releases/tag/supermarket-0.1.0)
+
 This public repository contains distribution metadata and compiled release assets only. Game source projects are maintained separately.
 
 The launcher reads [manifest.json](https://raw.githubusercontent.com/dmitrymob/DeltaGames-Releases/main/manifest.json). Archives are downloaded over HTTPS and checked against their size and SHA-256 before installation.
