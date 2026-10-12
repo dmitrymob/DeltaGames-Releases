@@ -10,6 +10,11 @@
         "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.5.3/pixels-are-coming-1.5.3.zip",
         "size": 121671892,
         "sha256": "8ac642ea3e4e99de9a9f9d3c0c49ac8ccddbdda493390c400cc91c672007ddfc"
+      },
+      "fileIndex": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.5.3/pixels-are-coming-1.5.3.zip.files.json",
+        "size": 58068,
+        "sha256": "9eedfc255ac645ba515f59a51138c0af31142d9d8d6f83e1bbe461c9e1a5abc2"
       }
     },
     {
@@ -21,6 +26,11 @@
         "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/dss-0.2.1/delta-soul-survival-0.2.1.zip",
         "size": 812126456,
         "sha256": "533ff5d1d756704a313495f7bb548c2386bdbc1cca99e3563946c4f6b2a07d83"
+      },
+      "fileIndex": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/dss-0.2.1/delta-soul-survival-0.2.1.zip.files.json",
+        "size": 61646,
+        "sha256": "6c714c69d278d2f2a5bfe703539332c20a030cc8ab08e716d66d51256003b63f"
       }
     },
     {
@@ -32,6 +42,11 @@
         "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/supermarket-0.1.0/supermarket-simulator-0.1.0.zip",
         "size": 103339688,
         "sha256": "cfe8af81e67dd48d2aba1d0c67031cd8d2a89a7fd248f3ab4116966fde01ae0b"
+      },
+      "fileIndex": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/supermarket-0.1.0/supermarket-simulator-0.1.0.zip.files.json",
+        "size": 27605,
+        "sha256": "3a54c959ec6585f508bd608998629cd1a8bebb935a608173fd731c57540be106"
       }
     },
     {
@@ -43,6 +58,11 @@
         "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.1/wings-of-fantasy-0.4.1.zip",
         "size": 636053827,
         "sha256": "1c2d38d4f7ab5b8c343a9fe11ccedecc96bd847c23eeffdbbc4d871a0e96ebf8"
+      },
+      "fileIndex": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.1/wings-of-fantasy-0.4.1.zip.files.json",
+        "size": 53268,
+        "sha256": "4f2640b9e0d875da1f9609595ad83ae9ae885a44a2ac9925a403748802cc5bbc"
       }
     }
   ]
