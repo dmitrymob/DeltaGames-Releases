@@ -1,69 +1,69 @@
 {
-    "schemaVersion":  1,
-    "games":  [
-                  {
-                      "id":  "pixels-are-coming",
-                      "version":  "1.5.9",
-                      "executable":  "PixelsAreComing.exe",
-                      "minimumLauncherVersion":  "0.2.0",
-                      "fileIndex":  {
-                                        "url":  "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.5.9/pixels-are-coming-1.5.9.zip.files.json",
-                                        "size":  58068,
-                                        "sha256":  "52b31d31ca59d30f6520fb4151f7f259127653ecd4dcf8ed812bee850858e1aa"
-                                    },
-                      "download":  {
-                                       "url":  "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.5.9/pixels-are-coming-1.5.9.zip",
-                                       "size":  127132718,
-                                       "sha256":  "a7bc7923d5e5d2e4168c25ac31f6d6361f24787874da0f926ad9d26f2cbc6ca7"
-                                   }
-                  },
-                  {
-                      "id":  "delta-soul-survival",
-                      "version":  "0.2.1",
-                      "executable":  "Delta Soul Survival.exe",
-                      "minimumLauncherVersion":  "0.2.0",
-                      "download":  {
-                                       "url":  "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/dss-0.2.1/delta-soul-survival-0.2.1.zip",
-                                       "size":  812126456,
-                                       "sha256":  "533ff5d1d756704a313495f7bb548c2386bdbc1cca99e3563946c4f6b2a07d83"
-                                   },
-                      "fileIndex":  {
-                                        "url":  "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/dss-0.2.1/delta-soul-survival-0.2.1.zip.files.json",
-                                        "size":  61646,
-                                        "sha256":  "6c714c69d278d2f2a5bfe703539332c20a030cc8ab08e716d66d51256003b63f"
-                                    }
-                  },
-                  {
-                      "id":  "wings-of-fantasy",
-                      "version":  "0.4.2",
-                      "executable":  "WingsOfFantasy.exe",
-                      "minimumLauncherVersion":  "0.6.0",
-                      "fileIndex":  {
-                                        "url":  "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.2/wings-of-fantasy-0.4.2.zip.files.json",
-                                        "size":  53268,
-                                        "sha256":  "dfede4ead94f8f0a761d0baf52c349528a19a4dcd64496553782d1d6b891481e"
-                                    },
-                      "download":  {
-                                       "url":  "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.2/wings-of-fantasy-0.4.2.zip",
-                                       "size":  637719585,
-                                       "sha256":  "bd025b17806bb0de40f9cab6c8f2044e28f6095d8c7748b2bfd629944c68afff"
-                                   }
-                  },
-                  {
-                      "id":  "supermarket-simulator",
-                      "version":  "0.1.1",
-                      "executable":  "SupermarketSimulator.exe",
-                      "minimumLauncherVersion":  "0.5.3",
-                      "fileIndex":  {
-                                        "url":  "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/supermarket-0.1.1/supermarket-simulator-0.1.1.zip.files.json",
-                                        "size":  30645,
-                                        "sha256":  "9340548a4002f7e61e06e6dd5a377c2f087b92a102a6a273c672fc2e3fa561dc"
-                                    },
-                      "download":  {
-                                       "url":  "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/supermarket-0.1.1/supermarket-simulator-0.1.1.zip",
-                                       "size":  103643972,
-                                       "sha256":  "ccea50c78b35e8772cd7f6ca7d7f0ad2e95b4b441f232b2c922195769b8a9d29"
-                                   }
-                  }
-              ]
+  "schemaVersion": 1,
+  "games": [
+    {
+      "id": "pixels-are-coming",
+      "version": "1.6.0",
+      "executable": "PixelsAreComing.exe",
+      "minimumLauncherVersion": "0.2.0",
+      "fileIndex": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.6.0/pixels-are-coming-1.6.0.zip.files.json",
+        "size": 58067,
+        "sha256": "d31448fc6716b7a390bf2323fd23ca8dc759abd4a3368988351aa5829f274738"
+      },
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.6.0/pixels-are-coming-1.6.0.zip",
+        "size": 126132565,
+        "sha256": "ba9307b9871c6122c029db10fe5afce10379d8b6f8f6e44976d811280a42717b"
+      }
+    },
+    {
+      "id": "delta-soul-survival",
+      "version": "0.2.1",
+      "executable": "Delta Soul Survival.exe",
+      "minimumLauncherVersion": "0.2.0",
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/dss-0.2.1/delta-soul-survival-0.2.1.zip",
+        "size": 812126456,
+        "sha256": "533ff5d1d756704a313495f7bb548c2386bdbc1cca99e3563946c4f6b2a07d83"
+      },
+      "fileIndex": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/dss-0.2.1/delta-soul-survival-0.2.1.zip.files.json",
+        "size": 61646,
+        "sha256": "6c714c69d278d2f2a5bfe703539332c20a030cc8ab08e716d66d51256003b63f"
+      }
+    },
+    {
+      "id": "wings-of-fantasy",
+      "version": "0.4.2",
+      "executable": "WingsOfFantasy.exe",
+      "minimumLauncherVersion": "0.6.0",
+      "fileIndex": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.2/wings-of-fantasy-0.4.2.zip.files.json",
+        "size": 53268,
+        "sha256": "dfede4ead94f8f0a761d0baf52c349528a19a4dcd64496553782d1d6b891481e"
+      },
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.2/wings-of-fantasy-0.4.2.zip",
+        "size": 637719585,
+        "sha256": "bd025b17806bb0de40f9cab6c8f2044e28f6095d8c7748b2bfd629944c68afff"
+      }
+    },
+    {
+      "id": "supermarket-simulator",
+      "version": "0.1.1",
+      "executable": "SupermarketSimulator.exe",
+      "minimumLauncherVersion": "0.5.3",
+      "fileIndex": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/supermarket-0.1.1/supermarket-simulator-0.1.1.zip.files.json",
+        "size": 30645,
+        "sha256": "9340548a4002f7e61e06e6dd5a377c2f087b92a102a6a273c672fc2e3fa561dc"
+      },
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/supermarket-0.1.1/supermarket-simulator-0.1.1.zip",
+        "size": 103643972,
+        "sha256": "ccea50c78b35e8772cd7f6ca7d7f0ad2e95b4b441f232b2c922195769b8a9d29"
+      }
+    }
+  ]
 }
