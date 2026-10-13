@@ -34,22 +34,6 @@
       }
     },
     {
-      "id": "wings-of-fantasy",
-      "version": "0.4.2",
-      "executable": "WingsOfFantasy.exe",
-      "minimumLauncherVersion": "0.6.0",
-      "fileIndex": {
-        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.2/wings-of-fantasy-0.4.2.zip.files.json",
-        "size": 53268,
-        "sha256": "dfede4ead94f8f0a761d0baf52c349528a19a4dcd64496553782d1d6b891481e"
-      },
-      "download": {
-        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.2/wings-of-fantasy-0.4.2.zip",
-        "size": 637719585,
-        "sha256": "bd025b17806bb0de40f9cab6c8f2044e28f6095d8c7748b2bfd629944c68afff"
-      }
-    },
-    {
       "id": "supermarket-simulator",
       "version": "0.1.1",
       "executable": "SupermarketSimulator.exe",
@@ -63,6 +47,22 @@
         "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/supermarket-0.1.1/supermarket-simulator-0.1.1.zip",
         "size": 103643972,
         "sha256": "ccea50c78b35e8772cd7f6ca7d7f0ad2e95b4b441f232b2c922195769b8a9d29"
+      }
+    },
+    {
+      "id": "wings-of-fantasy",
+      "version": "0.4.3",
+      "executable": "WingsOfFantasy.exe",
+      "minimumLauncherVersion": "0.6.0",
+      "fileIndex": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.3/wings-of-fantasy-0.4.3.zip.files.json",
+        "size": 53268,
+        "sha256": "5b7985a84da4058b481ea1a6c94316db21b48ff302639d0c7876a3cc3fc1cc49"
+      },
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.3/wings-of-fantasy-0.4.3.zip",
+        "size": 637763235,
+        "sha256": "f260381fe69381e3bdf97c9f90e0d2d42957093c99a240640e4c69975c1cddf8"
       }
     }
   ]
