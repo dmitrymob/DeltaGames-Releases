@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2",
+  "version": "0.7.3",
   "download": {
-    "size": 67095466,
-    "sha256": "e72b8085e7b6fa494f59d24a0c328d5135c21e2aff6b47df8026e7857aae4fa7",
-    "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/launcher-0.7.2/DeltaHubSetup.exe"
+    "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/launcher-0.7.3/DeltaHubSetup.exe",
+    "size": 67095653,
+    "sha256": "d0125fd588ab5a0b578082dc718da61da6f4f218c2cdd7a46049237834452cdd"
   }
 }
