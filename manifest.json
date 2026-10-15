@@ -35,18 +35,18 @@
     },
     {
       "id": "wings-of-fantasy",
-      "version": "0.4.9",
+      "version": "0.4.10",
       "executable": "WingsOfFantasy.exe",
       "minimumLauncherVersion": "0.7.4",
       "fileIndex": {
-        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.9/wings-of-fantasy-0.4.9.zip.files.json",
-        "size": 3183063,
-        "sha256": "96465a5ddaa102f7fccdfce3f7a149197f0b0ed2abb984157d68c318314fe1a4"
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.10/wings-of-fantasy-0.4.10.zip.files.json",
+        "size": 2643733,
+        "sha256": "fd5a851a70cadd9210495bfae1084c11c271d76a638e63058519185fbcfd9c4c"
       },
       "download": {
-        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.9/wings-of-fantasy-0.4.9.zip",
-        "size": 1010853588,
-        "sha256": "5b8ac5c6a17d49af3cf126760b52f80877742e92bb9419be1540b3d6cdb7d8fd"
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/wings-0.4.10/wings-of-fantasy-0.4.10.zip",
+        "size": 889095161,
+        "sha256": "a530721e8382df84164b73570628cd8eae7edecd95aefb38979c7128d621ced6"
       }
     },
     {
