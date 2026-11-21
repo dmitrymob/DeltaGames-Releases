@@ -2,22 +2,6 @@
   "schemaVersion": 1,
   "games": [
     {
-      "id": "pixels-are-coming",
-      "version": "1.10.4",
-      "executable": "PixelsAreComing.exe",
-      "minimumLauncherVersion": "0.2.0",
-      "fileIndex": {
-        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.10.4/pixels-are-coming-1.10.4.zip.files.json",
-        "size": 495639,
-        "sha256": "bc088c4f063a474c74ede8b20304c2908db4f3f90cf860bd54d737a92857a3df"
-      },
-      "download": {
-        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.10.4/pixels-are-coming-1.10.4.zip",
-        "size": 124595910,
-        "sha256": "ac59c3a8e2bc7aa806ab2de16d71e7bb287a391bddd969f6fbe501559bd2875f"
-      }
-    },
-    {
       "id": "delta-soul-survival",
       "version": "0.2.1",
       "executable": "Delta Soul Survival.exe",
@@ -63,6 +47,22 @@
         "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/supermarket-0.1.2/supermarket-simulator-0.1.2.zip",
         "size": 106242734,
         "sha256": "8927df3c4d7f30498f0edfec2dddf0c107e2f90eb9a882f4a99168affcb21a7e"
+      }
+    },
+    {
+      "id": "pixels-are-coming",
+      "version": "1.10.5",
+      "executable": "PixelsAreComing.exe",
+      "minimumLauncherVersion": "0.2.0",
+      "fileIndex": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.10.5/pixels-are-coming-1.10.5.zip.files.json",
+        "size": 671151,
+        "sha256": "15f8218546c872cc324a54010cce701a4ef8b47b06475409f1dfc3c563438d1f"
+      },
+      "download": {
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.10.5/pixels-are-coming-1.10.5.zip",
+        "size": 166280484,
+        "sha256": "fd258b4aef6b559abbc9e2058a4ec682c073eac104574faca32909ade21fe0bf"
       }
     }
   ]
