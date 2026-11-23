@@ -51,18 +51,18 @@
     },
     {
       "id": "pixels-are-coming",
-      "version": "1.10.30",
+      "version": "1.10.31",
       "executable": "PixelsAreComing.exe",
       "minimumLauncherVersion": "0.2.0",
       "fileIndex": {
-        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.10.30/pixels-are-coming-1.10.30.zip.files.json",
-        "size": 670548,
-        "sha256": "5851e664d1af91f5d4710a04f8b788db2fc95ee56972a9996034f9e59da4fa27"
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.10.31/pixels-are-coming-1.10.31.zip.files.json",
+        "size": 670749,
+        "sha256": "deb8751563d2874888a2d84e0a3b02e2ae5f518c80d4eb11258a07d193d07fde"
       },
       "download": {
-        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.10.30/pixels-are-coming-1.10.30.zip",
-        "size": 166361992,
-        "sha256": "05427bb8078a492f61f597fb3a435bca31fb2b423a8c692b0e54fc5d0fce915c"
+        "url": "https://github.com/dmitrymob/DeltaGames-Releases/releases/download/pixels-1.10.31/pixels-are-coming-1.10.31.zip",
+        "size": 166370314,
+        "sha256": "8441d8ba2f4297a5a51051170ae2cfd1379a871e9b1c3eab22c115db8093eef8"
       }
     }
   ]
